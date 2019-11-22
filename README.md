@@ -1,5 +1,5 @@
 # Dashboards
-Screen grabs of django,angularjs based dashboards
+Screen grabs of protype django,angularjs based dashboards
 
 
 ![1](https://user-images.githubusercontent.com/24733068/69400954-b3498380-0d47-11ea-8407-4c37ba667424.png)
